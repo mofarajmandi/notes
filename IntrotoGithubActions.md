@@ -47,8 +47,8 @@
 
     ```yaml
     list: # same as ["item1", "item2"]
-    	- item1
-    	- item2
+        - item1
+        - item2
     ```
 
 - if you want to preserve the formatting of text
