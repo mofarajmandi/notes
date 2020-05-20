@@ -32,15 +32,15 @@
 
     ```yaml
     fullname:
-    	firstname: "Mo"
-    	lastname: "Farajmandi"
+        firstname: "Mo"
+        lastname: "Farajmandi"
     ```
 
     alternatively
 
     ```yaml
     student:
-    	fullname: {firstname: "Mo", lastname: "Farajmandi"}
+        fullname: {firstname: "Mo", lastname: "Farajmandi"}
     ```
 
 - you can define list using `-` or `["item1", "item2"]`
